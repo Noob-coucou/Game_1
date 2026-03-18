@@ -1,0 +1,94 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.unitypackage.meta
+*.asset.meta
+*.prefab.meta
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Rider
+.idea/
+*.suo
+*.user
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Logs
+*.log
+*.tmp
+
+# Cache
+*.cache
+*~
+*.swp
+*.swo
+*~
+
+# Backup
+*.bak
+*.backup
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Build
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.gradle
+.idea
+*.iml
+local.properties
+
+# Xcode
+xcuserdata/
+*.xccheckout
+*.xcuserstate
+project.xcworkspace
+DerivedData/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper.user
+
+# Rider
+.idea/
