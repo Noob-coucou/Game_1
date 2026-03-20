@@ -906,6 +906,9 @@
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Splines.Editor">
+      <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Splines.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
@@ -939,8 +942,14 @@
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Cinemachine.Editor">
+      <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Cinemachine.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.UnifiedRayTracing.Runtime">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.UnifiedRayTracing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Cinemachine">
+      <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
@@ -1034,6 +1043,9 @@
     </Reference>
     <Reference Include="Unity.Settings.Editor">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Settings.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Splines">
+      <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\Unity.Splines.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:\UnityHub\UnityProjects\Test_1\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
